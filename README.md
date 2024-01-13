@@ -11,6 +11,19 @@ This is a simple Rock, Paper, and Scissors game implemented using HTML, CSS, and
 
 ## Screenshots
 
+- Home page:
+  ![home page](https://github.com/abhimanyu0018/Stone-Paper-Scissors-Game/blob/main/assets/screenshots/onload.png)
+- Palyer wins:
+  ![player win](https://github.com/abhimanyu0018/Stone-Paper-Scissors-Game/blob/main/assets/screenshots/playerWin.png)
+- Computer wins:
+  ![player win](https://github.com/abhimanyu0018/Stone-Paper-Scissors-Game/blob/main/assets/screenshots/computerWIn.png)
+- Draw:
+  ![player win](https://github.com/abhimanyu0018/Stone-Paper-Scissors-Game/blob/main/assets/screenshots/draw.png)
+
+
+
+  
+
 
 
 ## Technologies Used

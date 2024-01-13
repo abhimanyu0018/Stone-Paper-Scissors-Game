@@ -1,0 +1,50 @@
+@media  screen and (max-width: 600px) {
+    .header{
+
+        height: 10vh;
+    }
+
+    .game-box{
+        padding-top: 20px;
+        display: flex;
+        flex-direction: column-reverse;
+        justify-content: center;
+        align-items: center;
+        gap: 10px;
+    }
+
+    .flex-item{
+        text-align: center;
+    }
+
+    .hr{
+        border: none;
+    }
+    
+
+    .img{
+        width: 200px; 
+        height: 200px; 
+        /* scale: 0.6; */
+        border-radius: 50%;
+    }
+
+    .flex-item p{
+        margin-top: 5px;
+        font-size: 1.2rem;
+        font-weight: 400;
+    }
+
+    .choices-img{
+        width: 100px;
+        height: 100px;
+        border-radius: 50%;
+    }
+
+    .decision-box{
+        padding-top: 20px;
+    }
+
+    
+
+}
